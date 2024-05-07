@@ -23,4 +23,4 @@ To solve a sudoku puzzle:
                                 ex. [36, 25, 14] - bulb at row 3 col 6, thermo line through row 2 col 5 and row 1 col 4 in order
 2. Run main.py
 
-Several example puzzles are included in sudokuPuzzles.txt, simply copy and paste a puzzle from there into solvePuzzle.txt and run main.py to solve it. Solutions for the example puzzles are included in sudokuSolutions.txt (listed in the same order as in sudokuPuzzles.txt) 
+Several example puzzles are included in sudokuPuzzles.txt, simply copy and paste a puzzle from there into solvePuzzle.txt and run main.py to solve it. Solutions for the example puzzles are included in sudokuSolutions.txt (listed in the same order as in sudokuPuzzles.txt)  
